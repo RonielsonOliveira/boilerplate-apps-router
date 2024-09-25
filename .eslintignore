@@ -1,0 +1,4 @@
+!.storybook
+!.jest
+!src/app/components/types
+generators
